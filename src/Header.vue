@@ -43,6 +43,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   margin-top: 60px;
+  margin-left: 0;
+  margin-right: 0;
   width: 100%;
   margin: 0;
   height: 10%;
